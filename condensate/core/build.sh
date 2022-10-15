@@ -1,6 +1,6 @@
 #!/bin/bash
 
 cd build
-cmake ..
+cmake .. -DCMAKE_PREFIX_PATH=$CONDA_PREFIX
 make
 cd ..
