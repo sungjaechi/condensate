@@ -1,3 +1,0 @@
-# Figures
-
-store figures here
